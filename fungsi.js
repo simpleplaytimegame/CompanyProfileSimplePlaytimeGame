@@ -1,4 +1,4 @@
-console.log('fungsi pertama');
-console.log('fungsi kedua');
 const add = (a, b) => a+b;
 console.log(add(1,2));
+const substract =(a,b) >= a-b;
+console.log(substract(5,2));
